@@ -68,7 +68,13 @@ body {
                                       /* offset horizontal: half of image width and text area width */
     }
 }
-
+h1.test {font-size:70px;
+		font-weight:normal;
+		margin:0px;
+		overflow:visible;
+		padding:0px;
+		text-align:center;
+}
 h1 {
     font-size:24px;
     font-weight:normal;
